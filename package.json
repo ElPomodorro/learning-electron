@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ElPomodorro/learning-electron/issues"
   },
-  "homepage": "https://github.com/ElPomodorro/learning-electron#readme"
+  "homepage": "https://github.com/ElPomodorro/learning-electron#readme",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
 }
